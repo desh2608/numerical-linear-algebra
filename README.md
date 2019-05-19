@@ -4,3 +4,4 @@ My solutions to exercises in Numerical Linear Algebra by Trefethen and Bau. Some
 ## Contents
 
 1. [Matrix-Vector Multiplication](Sol1.pdf)
+2. [Orthogonal Vectors and Matrices](Sol2.pdf)
