@@ -7,3 +7,4 @@ My solutions to exercises in Numerical Linear Algebra by Trefethen and Bau. Some
 2. [Orthogonal Vectors and Matrices](Sol2.pdf)
 3. [Norms](Sol3.pdf)
 4. [Singluar Value Decomposition](Sol4.pdf)
+5. [More on the SVD](Sol5.pdf)
