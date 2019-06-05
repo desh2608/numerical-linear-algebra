@@ -9,3 +9,4 @@ My solutions to exercises in Numerical Linear Algebra by Trefethen and Bau. Some
 4. [Singluar Value Decomposition](Sol4.pdf)
 5. [More on the SVD](Sol5.pdf)
 6. [Projectors](Sol6.pdf)
+7. [QR Factorization](Sol7.pdf)
